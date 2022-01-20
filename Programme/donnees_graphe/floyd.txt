@@ -1,0 +1,10 @@
+#Graphe = Matrice d'adjacences et ses dérivées
+Nombre de sommets = 6
+Nombre d'arcs = 8
+Sommet = 0 nbSucc = 2  Succ = 1 -2 2 6
+Sommet = 1 nbSucc = 1  Succ = 3 4
+Sommet = 2 nbSucc = 3  Succ = 1 6 3 -8 4 14
+Sommet = 3 nbSucc = 1  Succ = 5 -19
+Sommet = 4 nbSucc = 1  Succ = 5 -5
+Sommet = 5 nbSucc = 0  Succ = 
+#FIN

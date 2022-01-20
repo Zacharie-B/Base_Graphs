@@ -1,0 +1,10 @@
+#Graphe = Matrice d'incidence et ses dérivées
+Nombre de sommets = 6
+Nombre d'arcs = 8
+Sommet = 0 nbSucc = 2  Succ = 1 12 2 16
+Sommet = 1 nbSucc = 2  Succ = 3 12 4 6
+Sommet = 2 nbSucc = 2  Succ = 3 6 4 6
+Sommet = 3 nbSucc = 1  Succ = 5 16
+Sommet = 4 nbSucc = 1  Succ = 5 12
+Sommet = 5 nbSucc = 0  Succ = 
+#FIN

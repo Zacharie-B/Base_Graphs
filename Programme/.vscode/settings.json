@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "op_matInc.h": "c",
+        "flot.h": "c",
+        "op_liste": "c",
+        "arbre_recouv.h": "c",
+        "op_matrice.h": "c",
+        "allocation.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "libc-header-start.h": "c",
+        "features.h": "c",
+        "cdefs.h": "c",
+        "stdc-predef.h": "c",
+        "stubs.h": "c",
+        "stubs-64.h": "c",
+        "creer_graphe.h": "c",
+        "op_liste.h": "c"
+    }
+}
