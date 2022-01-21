@@ -14,6 +14,6 @@ Droits d'auteur : Tous droits réservés
 Sur Linux :
 - ouvrir un terminal et se placer dans le répertoire "Programme"
 - utiliser le Makefile avec les commandes
-  - make pcc1 : shortest paths
+  - make pcc1 : shortest paths (with Dijsktra)
   - make arbre_rec : spanning tree
   - make flot : flow problem
