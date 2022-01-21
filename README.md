@@ -7,8 +7,8 @@ A basic implementation of graph algorithms :
 ## Boot tools
 Use his command prompt.
 
-## Autor
-Autor : Zacharie-B
+## Author
+Zacharie-B
 
 ## Licence
 Droits d'auteur : Tous droits réservés
